@@ -28,7 +28,7 @@ JSON Dataset used has been Attached
 
 **stars** - Names of the movie star(s)
 
-##Dashboard
+## Dashboard
 
 ![Oscar_Movies_Vasu](https://github.com/user-attachments/assets/949e6fd4-edc0-4b95-9081-549c85b31f79)
 
