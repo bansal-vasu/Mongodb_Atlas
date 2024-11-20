@@ -30,5 +30,6 @@ JSON Dataset used has been Attached
 
 ## Dashboard
 
-![Oscar_Movies_Vasu](https://github.com/user-attachments/assets/949e6fd4-edc0-4b95-9081-549c85b31f79)
+![Oscar_Movies_Vasu (1)](https://github.com/user-attachments/assets/fbf07a4d-b8f3-43f9-96d1-88560ef9eb71)
+
 
