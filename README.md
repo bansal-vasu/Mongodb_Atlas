@@ -6,6 +6,12 @@ JSON Dataset used has been Attached
 
 Source Link - https://github.com/sharmadhiraj/free-json-datasets
 
+## INTRODUCTION
+
+The Oscar Movies Dataset provides a rich collection of information on films that have won the Academy Award for Best Picture. Each record captures critical attributes such as the movie's title, Oscar-winning year, release year, genre, duration, MPAA rating, and a succinct summary. The dataset also includes details about the directors and main cast, alongside links to the movie posters for visual reference. Covering a span of years, the dataset features varied genres, themes, and cinematic styles, offering a glimpse into the evolution of filmmaking and storytelling.
+
+Further analysis of this dataset can unveil several valuable insights. For instance, trends in winning genres can be explored, revealing how audience preferences and industry focus have shifted over time. The dataset allows for examining correlations between factors such as duration, rating, or genre and the likelihood of winning an Oscar. A study of recurring directors or actors in winning films could highlight influential figures in cinema history. Additionally, sentiment analysis on the summaries may shed light on prevalent themes or narratives. This dataset could also be used for predictive modeling, identifying attributes that increase a movie's chances of becoming an Oscar winner.
+
 ## Attirbutes Decription
 
 **ID** - ID of the movie
