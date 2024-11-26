@@ -12,29 +12,29 @@ The Oscar Movies Dataset provides a rich collection of information on films that
 
 Further analysis of this dataset can unveil several valuable insights. For instance, trends in winning genres can be explored, revealing how audience preferences and industry focus have shifted over time. The dataset allows for examining correlations between factors such as duration, rating, or genre and the likelihood of winning an Oscar. A study of recurring directors or actors in winning films could highlight influential figures in cinema history. Additionally, sentiment analysis on the summaries may shed light on prevalent themes or narratives. This dataset could also be used for predictive modeling, identifying attributes that increase a movie's chances of becoming an Oscar winner.
 
-## Attirbutes Decription
+### Attirbutes Decription
 
-**ID** - ID of the movie
+-**ID** - ID of the movie
 
-**Name** - Name of the movie
+-**Name** - Name of the movie
 
-**Oscar** - Year in which the movie received the oscar
+-**Oscar** - Year in which the movie received the oscar
 
-**released_year** - Year when the movie was released
+-**released_year** - Year when the movie was released
 
-**poster** - Link to the poster of the movie
+-**poster** - Link to the poster of the movie
 
-**rating** - Rating of the movie ( From R, Passed, Not Rated, PG-13, PG, G, Approved, GP)
+-**rating** - Rating of the movie ( From R, Passed, Not Rated, PG-13, PG, G, Approved, GP)
 
-**duration** - Duration of the movie in minutes
+-**duration** - Duration of the movie in minutes
 
-**genre** - Genre of the movie
+-**genre** - Genre of the movie
 
-**summary** - Summary of the movie plot
+-**summary** - Summary of the movie plot
 
-**directors** - Names of the movie director(s)
+-**directors** - Names of the movie director(s)
 
-**stars** - Names of the movie star(s)
+-**stars** - Names of the movie star(s)
 
 ## Dashboard
 
