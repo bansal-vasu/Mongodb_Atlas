@@ -26,7 +26,7 @@ Further analysis of this dataset can unveil several valuable insights. For insta
  - **directors** - Names of the movie director(s)
  - **stars** - Names of the movie star(s)
 
-### Dashboard
+### DASHBOARD
 
 ![Oscar_Movies_Vasu (2)](https://github.com/user-attachments/assets/da4982a0-04ca-4412-bc51-28a2746261ad)
 
