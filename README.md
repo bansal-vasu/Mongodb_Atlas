@@ -1,4 +1,4 @@
-# Mongodb_Atlas
+# Analysis of Oscar Movies Dataset
 
 This repository contains Visulizations created using MongoDB Atlas.
 
